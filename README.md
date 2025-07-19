@@ -1,7 +1,7 @@
 # PyTorch
 
 Source:
-PyTorch : https://docs.pytorch.org/docs/stable/index.html
+PyTorch : https://docs.pytorch.org/docs/stable/index.html  \n
 You tube Channel : CampusX
 https://www.youtube.com/@campusx-official
 
